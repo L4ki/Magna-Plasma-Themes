@@ -20,6 +20,7 @@ Download: https://www.pling.com/p/2102246/
 
 
 Screenshot:
+-----------
 
 ![1](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/18771ccd-8b8c-448e-8c92-2f3e17fb3db9)
 
