@@ -17,17 +17,17 @@
   <sodipodi:namedview
      id="namedview272"
      pagecolor="#201933"
-     bordercolor="#030303"
+     bordercolor="#000000"
      borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      showgrid="true"
      inkscape:zoom="4.2961853"
-     inkscape:cx="73.553625"
-     inkscape:cy="22.694552"
+     inkscape:cx="81.467622"
+     inkscape:cy="31.190461"
      inkscape:window-width="1920"
-     inkscape:window-height="1044"
+     inkscape:window-height="993"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -736,7 +736,7 @@
      id="pressed-center">
     <rect
        id="rect6969-0"
-       style="fill:#476382;fill-opacity:0.2"
+       style="fill:#624e9d;fill-opacity:0.24705882"
        width="6"
        height="6"
        x="72"
@@ -754,7 +754,7 @@
        y="0"
        id="rect159-8" />
     <path
-       style="fill-opacity:0.2;fill:#476382;"
+       style="fill-opacity:0.24657534;fill:#624e9d"
        d="M 7,2 C 4,2 2,4 2,7 v 0 0 0 h 5 z"
        id="path161-7"
        sodipodi:nodetypes="ccccccc"
@@ -777,7 +777,7 @@
        y="0"
        id="rect109-2" />
     <path
-       style="fill-opacity:0.2;fill:#476382;"
+       style="fill-opacity:0.24705882;fill:#624e9d"
        d="m 7,2 h 6 V 7 H 7 Z"
        id="path111-7"
        class="ColorScheme-Highlight" />
@@ -802,7 +802,7 @@
        y="0"
        id="rect164-6" />
     <path
-       style="fill-opacity:0.2;fill:#476382;"
+       style="fill-opacity:0.24705882;fill:#624e9d"
        d="m 13,2 c 3,0 5,2 5,5 v 0 0 h 2e-6 -5 z"
        id="path166-1"
        sodipodi:nodetypes="ccccccc"
@@ -825,7 +825,7 @@
        y="7"
        id="rect114-1" />
     <path
-       style="fill-opacity:0.2;fill:#476382;"
+       style="fill-opacity:0.24705882;fill:#624e9d"
        d="M 2,6.9999995 H 7 V 12.999999 H 2 Z"
        id="path116-5"
        class="ColorScheme-Highlight" />
@@ -850,7 +850,7 @@
        y="7"
        id="rect120-9" />
     <path
-       style="fill-opacity:0.2;fill:#476382;"
+       style="fill-opacity:0.24705882;fill:#624e9d"
        d="m 13,7.0000009 5,2.4e-6 V 13 l -5,-2e-6 z"
        id="path122-0"
        class="ColorScheme-Highlight" />
@@ -875,7 +875,7 @@
        y="13"
        id="rect169-7" />
     <path
-       style="fill-opacity:0.2;fill:#476382;"
+       style="fill-opacity:0.24705882;fill:#624e9d"
        d="M 7,18 C 4,18 2,16 2,13 v 0 0 0 h 5 z"
        id="path171-7"
        sodipodi:nodetypes="ccccccc"
@@ -898,7 +898,7 @@
        y="13"
        id="rect174-5" />
     <path
-       style="fill-opacity:0.2;fill:#476382;"
+       style="fill-opacity:0.24705882;fill:#624e9d"
        d="m 13,18 c 3,0 5,-2 5,-5 h -4.999998 z"
        id="path176-9"
        sodipodi:nodetypes="cccc"
@@ -921,7 +921,7 @@
        y="13"
        id="rect125-6" />
     <path
-       style="fill-opacity:0.2;fill:#476382;"
+       style="fill-opacity:0.24705882;fill:#624e9d"
        d="m 7,18 h 6 V 13 H 7 Z"
        id="path127-7"
        class="ColorScheme-Highlight" />
