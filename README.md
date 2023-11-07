@@ -37,3 +37,27 @@ Screenshot:
 ![1](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/ae3b94c0-c688-4c71-b38b-e536d2f4e45a)
 
 ![3](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/545a9465-11ee-4b04-b8ce-686514541be1)
+
+
+Changelog: 07.11.2023.
+----------------------
+
+GTK_Theme
+----------
+
+Update: tab-down-active.png
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: button.svg
