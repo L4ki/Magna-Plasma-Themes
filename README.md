@@ -61,3 +61,27 @@ Plasma Theme
 ------------
 
 Update widget: button.svg
+
+
+Changelog: 14.11.2023.
+----------------------
+
+GTK_Theme
+----------
+
+Update: tab-up-active.png
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: cadence.svg
