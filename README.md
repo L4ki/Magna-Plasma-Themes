@@ -85,3 +85,26 @@ Plasma Theme
 ------------
 
 Added icon: cadence.svg
+
+Changelog: 21.11.2023.
+----------------------
+
+GTK_Theme
+----------
+
+Update: progressbar-vert-trough.png
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: thunderbird.svg
