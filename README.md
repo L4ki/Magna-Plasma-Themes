@@ -108,3 +108,26 @@ Plasma Theme
 ------------
 
 Added icon: thunderbird.svg
+
+Changelog: 28.11.2023.
+----------------------
+
+GTK_Theme
+----------
+
+Update: progressbar-horz-trough.png
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icons: krusader_root.svg, krusader_user.svg
