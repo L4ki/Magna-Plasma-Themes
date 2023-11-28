@@ -42,7 +42,7 @@ Screenshot:
 Changelog: 07.11.2023.
 ----------------------
 
-GTK_Theme
+GTK-Theme
 ----------
 
 Update: tab-down-active.png
@@ -66,7 +66,7 @@ Update widget: button.svg
 Changelog: 14.11.2023.
 ----------------------
 
-GTK_Theme
+GTK-Theme
 ----------
 
 Update: tab-up-active.png
@@ -89,7 +89,7 @@ Added icon: cadence.svg
 Changelog: 21.11.2023.
 ----------------------
 
-GTK_Theme
+GTK-Theme
 ----------
 
 Update: progressbar-vert-trough.png
@@ -112,7 +112,7 @@ Added icon: thunderbird.svg
 Changelog: 28.11.2023.
 ----------------------
 
-GTK_Theme
+GTK-Theme
 ----------
 
 Update: progressbar-horz-trough.png
