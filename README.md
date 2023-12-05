@@ -131,3 +131,27 @@ Plasma Theme
 ------------
 
 Added icons: krusader_root.svg, krusader_user.svg
+
+
+Changelog: 05.12.2023.
+----------------------
+
+GTK-Theme
+----------
+
+Update: styles
+
+Aurorae Themes
+---------------
+
+Update: close.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icons: org.rnd2.cpupower_gui.svg
