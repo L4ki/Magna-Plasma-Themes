@@ -155,3 +155,27 @@ Plasma Theme
 ------------
 
 Added icons: org.rnd2.cpupower_gui.svg
+
+
+Changelog: 12.12.2023.
+----------------------
+
+GTK-Theme
+----------
+
+Update: gtkrc
+
+Aurorae Themes
+---------------
+
+Update: shade.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: telegram.svg
