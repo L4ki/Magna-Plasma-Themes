@@ -203,3 +203,12 @@ Plasma Theme
 ------------
 
 Added icon: image.svg
+
+
+Changelog: 26.12.2023.
+----------------------
+
+Magna Splash
+------------
+
+Update: Splash.qml
