@@ -212,3 +212,25 @@ Magna Splash
 ------------
 
 Update: Splash.qml
+
+GTK-Theme
+----------
+
+Update: gtk-4.0
+
+Aurorae Themes
+---------------
+
+Update: help.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: accessories.svg
+
+
