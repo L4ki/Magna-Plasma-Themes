@@ -234,3 +234,27 @@ Plasma Theme
 Added icon: accessories.svg
 
 
+Changelog: 02.01.2024.
+----------------------
+
+GTK-Theme
+----------
+
+Update: scale-slider.png
+
+Aurorae Themes
+---------------
+
+Update: alldesktops.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Added widget: switch.svg
+
+
