@@ -257,4 +257,21 @@ Plasma Theme
 
 Added widget: switch.svg
 
+Changelog: 09.01.2024.
+----------------------
+
+GTK-Theme
+----------
+
+Update: gtk-3.0
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Added icon: akonadi.svg
 
