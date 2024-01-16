@@ -275,3 +275,26 @@ Plasma Theme
 
 Added icon: akonadi.svg
 
+Changelog: 16.01.2024.
+----------------------
+
+GTK-Theme
+----------
+
+Update: gtkrc
+
+Aurorae Themes
+---------------
+
+Update: maximize.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Added icon: antimicro.svg
+
