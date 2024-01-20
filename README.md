@@ -203,3 +203,98 @@ Plasma Theme
 ------------
 
 Added icon: image.svg
+
+
+Changelog: 26.12.2023.
+----------------------
+
+Magna Splash
+------------
+
+Update: Splash.qml
+
+GTK-Theme
+----------
+
+Update: gtk-4.0
+
+Aurorae Themes
+---------------
+
+Update: help.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: accessories.svg
+
+
+Changelog: 02.01.2024.
+----------------------
+
+GTK-Theme
+----------
+
+Update: scale-slider.png
+
+Aurorae Themes
+---------------
+
+Update: alldesktops.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Added widget: switch.svg
+
+Changelog: 09.01.2024.
+----------------------
+
+GTK-Theme
+----------
+
+Update: gtk-3.0
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Added icon: akonadi.svg
+
+Changelog: 16.01.2024.
+----------------------
+
+GTK-Theme
+----------
+
+Update: gtkrc
+
+Aurorae Themes
+---------------
+
+Update: maximize.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Added icon: antimicro.svg
+

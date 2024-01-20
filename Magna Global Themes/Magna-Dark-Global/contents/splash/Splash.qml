@@ -1,8 +1,8 @@
 import QtQuick 2.5
-
 Image {
     id: root
     source: "images/background.png"
+    fillMode: Image.PreserveAspectCrop
 
     property int stage
 
@@ -11,7 +11,6 @@ Image {
             introAnimation.running = true
         }
     }
-
     Item {
         id: content
         anchors.fill: parent
@@ -23,7 +22,7 @@ Image {
             property int largeSpacing: units.gridUnit
             property int smallSpacing: Math.max(2, gridUnit/4)
         }
-       
+
         Image {
             id: logo
             property real size: units.gridUnit * 12
@@ -31,20 +30,16 @@ Image {
             source: "images/plasma.svg"
             sourceSize.width: 200
             sourceSize.height: 200
-
             ParallelAnimation {
                 running: true
-
                 ScaleAnimator {
                     target: logo
                     from: 0
                     to: 1
                     duration: 700
                 }
-
                 SequentialAnimation {
                     loops: Animation.Infinite
-
                     OpacityAnimator {
                         target: logo
                         from: 0.75
@@ -60,7 +55,6 @@ Image {
                 }
             }
         }
-
         Image {
             id: busyIndicator
             source: "images/loader.svg"
@@ -76,7 +70,6 @@ Image {
             }
         }
     }
-
     OpacityAnimator {
         id: introAnimation
         running: false
