@@ -4,6 +4,12 @@ Magna Themes For Plasma Desktop
 Download: https://www.pling.com/p/2102246/
 ------------------------------------------
 
+"Magna-Glassy-Dark-Icons": https://store.kde.org/p/2123739
+----------------------------------------------------------
+
+"Magna-Glassy-Light-Icons": https://store.kde.org/p/2123737
+-----------------------------------------------------------
+
 
 <html>
   <head>
