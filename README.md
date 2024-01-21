@@ -24,6 +24,10 @@ Screenshot:
 
 ![1](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/18771ccd-8b8c-448e-8c92-2f3e17fb3db9)
 
+![Screenshot_20240120_140031](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/08546fbb-f0f6-46a9-aad9-1a2594e6cd13)
+
+![Screenshot_20240121_145513](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/c43c4ba3-2605-4ca3-bee8-784242e81abe)
+
 ![2](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/c07bcd19-ba0f-42cf-b8d5-705542a559c7)
 
 ![3](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/e56ff813-d194-4c4e-a6cf-3aca3870755b)
