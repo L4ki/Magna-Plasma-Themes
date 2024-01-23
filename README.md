@@ -49,18 +49,19 @@ Screenshot:
 ![3](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/545a9465-11ee-4b04-b8ce-686514541be1)
 
 
-Changelog: 16.01.2024.
+
+Changelog: 23.01.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: checkbox-unchecked-insensitive.png
 
 Aurorae Themes
 ---------------
 
-Update: maximize.svg
+Update: Auroraerc
 
 Icons
 -----
@@ -70,10 +71,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Added icon: antimicro.svg
+Added icon: dropbox.svg
 
 
-Changelog: 21.01.2024.
-----------------------
 
-Added: "Magna-Glassy-Dark-Icons" and "Magna-Glassy-Light-Icons"
