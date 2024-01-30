@@ -5,7 +5,7 @@
    version="1"
    id="svg12"
    sodipodi:docname="manjaro.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -14,8 +14,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <g
-     id="g433"
-     style="fill:#bac8df;fill-opacity:1">
+     id="manjaro-settings-manager">
     <rect
        style="opacity:0.00100002;fill:#bac8df;fill-opacity:1"
        width="32"
@@ -56,7 +55,7 @@
      id="namedview14"
      showgrid="true"
      inkscape:zoom="9.8125"
-     inkscape:cx="-7.2356688"
+     inkscape:cx="-7.3375796"
      inkscape:cy="16.152866"
      inkscape:window-x="0"
      inkscape:window-y="0"
