@@ -76,4 +76,11 @@ Plasma Theme
 Added icon: transform.svg
 
 
+Changelog: 13.02.2024.
+----------------------
+
+Icons
+-----
+
+Update applets icons
 
