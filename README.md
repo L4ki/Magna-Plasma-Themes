@@ -52,18 +52,18 @@ ________________________________________________________________________________
 
 
 
-Changelog: 06.02.2024.
+Changelog: 20.02.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: main.rc
+Update: apps.rc
 
 Aurorae Themes
 ---------------
 
-Update: help.svg
+Update: minimize.svg
 
 Icons
 -----
@@ -73,14 +73,8 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Added icon: transform.svg
+Added icon: corectrl.svg
 
 
-Changelog: 13.02.2024.
-----------------------
 
-Icons
------
-
-Update applets icons
 
