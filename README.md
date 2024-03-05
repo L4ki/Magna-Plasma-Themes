@@ -71,6 +71,11 @@ Changelog: 05.03.2024.
 GTK-Theme
 ----------
 
+Icon Theme "Magna-Light-Icons"
+-----------------------------
+
+Added new icons: apps 48
+
 Update: hacks.rc
 
 Aurorae Themes
