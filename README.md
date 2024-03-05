@@ -65,28 +65,23 @@ Aurorae Themes
 Added Aurorae Themes for Plasma 6
 
 
-Changelog: 27.02.2024.
+Changelog: 05.03.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: hacks-dark.rc
+Update: hacks.rc
 
 Aurorae Themes
 ---------------
 
-Update: keepabove.svg
-
-Icons
------
-
-Added new icons: apps 48
+Update: decoration.svg
 
 Plasma Theme
 ------------
 
-Added icon: emblem.svg
+Added icon: kdf.svg
 
 
 
