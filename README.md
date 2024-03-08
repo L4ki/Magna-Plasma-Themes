@@ -51,18 +51,18 @@ Screenshots:
 ______________________________________________________________________________________________________
 
 
-Changelog: 01.03.2024.
+Changelog: 08.03.2024.
 ---------------------
 
 Icon Themes
 -----------
 
-Customized and for Plasma 6
+Added new icons: apps 48
 
 Aurorae Themes 
 --------------
 
-Added Aurorae Themes for Plasma 6
+Update: decoration.svg
 
 
 Changelog: 05.03.2024.
