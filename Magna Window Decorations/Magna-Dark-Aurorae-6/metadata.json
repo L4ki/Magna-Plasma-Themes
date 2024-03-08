@@ -10,9 +10,9 @@
         "Dependencies": [
         ],
         "EnabledByDefault": true,
-        "Id": "Magna-Dark-Aurorae-6",
+        "Id": "Magna-Blur-Dark-Aurorae-6",
         "License": "GPLv3",
-        "Name": "Magna-Dark-Aurorae-6",
-        "Version": "1.0"
+        "Name": "Magna-Blur-Dark-Aurorae-6",
+        "Version": "1.1"
     }
 }
