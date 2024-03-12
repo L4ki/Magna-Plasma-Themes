@@ -65,28 +65,23 @@ Aurorae Themes
 Update: decoration.svg
 
 
-Changelog: 05.03.2024.
+Changelog: 12.03.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: hacks.rc
-
-Icon Theme "Magna-Light-Icons"
------------------------------
-
-Added new icons: apps 48
+Update: gtkrc
 
 Aurorae Themes
 ---------------
 
-Update: decoration.svg
+Update: metadata.desktop
 
 Plasma Theme
 ------------
 
-Added icon: kdf.svg
+Update widget: background.svg (dialogs)
 
 
 
