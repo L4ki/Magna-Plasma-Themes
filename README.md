@@ -58,6 +58,11 @@ Aurorae Themes
 
 Update: metadata.json
 
+Icons Themes
+------------
+
+Added new icins: apps 48
+
 
 Changelog: 12.03.2024.
 ----------------------
