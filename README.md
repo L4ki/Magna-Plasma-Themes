@@ -46,7 +46,7 @@ Screenshots:
 
 ![1](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/ae3b94c0-c688-4c71-b38b-e536d2f4e45a)
 
-![3](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/545a9465-11ee-4b04-b8ce-686514541b
+
 ______________________________________________________________________________________________________
 
 
