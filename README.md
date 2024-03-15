@@ -46,23 +46,17 @@ Screenshots:
 
 ![1](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/ae3b94c0-c688-4c71-b38b-e536d2f4e45a)
 
-![3](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/545a9465-11ee-4b04-b8ce-686514541be1)
-
+![3](https://github.com/L4ki/Magna-Plasma-Themes/assets/45247573/545a9465-11ee-4b04-b8ce-686514541b
 ______________________________________________________________________________________________________
 
 
-Changelog: 08.03.2024.
+Changelog: 15.03.2024.
 ---------------------
-
-Icon Themes
------------
-
-Added new icons: apps 48
 
 Aurorae Themes 
 --------------
 
-Update: decoration.svg
+Update: metadata.json
 
 
 Changelog: 12.03.2024.
