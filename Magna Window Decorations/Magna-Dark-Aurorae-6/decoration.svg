@@ -30,9 +30,9 @@
      showgrid="true"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="2.8141241"
-     inkscape:cx="-14.924715"
-     inkscape:cy="93.279468"
+     inkscape:zoom="3.0164663"
+     inkscape:cx="-17.901741"
+     inkscape:cy="94.978683"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -54,30 +54,6 @@
   </sodipodi:namedview>
   <defs
      id="pax-round">
-    <linearGradient
-       id="linearGradient9"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#182030;stop-opacity:1;"
-         offset="0"
-         id="stop7" />
-      <stop
-         style="stop-color:#20283c;stop-opacity:1;"
-         offset="1"
-         id="stop8" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient7"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#182030;stop-opacity:1;"
-         offset="0"
-         id="stop4" />
-      <stop
-         style="stop-color:#20283c;stop-opacity:1;"
-         offset="1"
-         id="stop6" />
-    </linearGradient>
     <linearGradient
        id="linearGradient1"
        inkscape:collect="always">
@@ -598,7 +574,7 @@
        y2="-34.872829" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient7"
+       xlink:href="#linearGradient1"
        id="linearGradient2"
        x1="24"
        y1="25"
@@ -607,7 +583,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient9"
+       xlink:href="#linearGradient1"
        id="linearGradient6"
        x1="33"
        y1="25"
@@ -631,7 +607,7 @@
       <path
          id="center"
          d="M 28,28 V 40 H 40.000001 V 28 Z"
-         style="stroke-width:0.750018;fill-opacity:0.74901962;fill:#182030"
+         style="stroke-width:0.750018;fill-opacity:1;fill:#182030"
          class="ColorScheme-Background" />
     </g>
   </g>
@@ -809,7 +785,7 @@
   <g
      id="decoration-topleft">
     <path
-       style="stroke-width:0.636368;fill-opacity:1;fill:url(#linearGradient2);opacity:0.75"
+       style="stroke-width:0.636368;fill-opacity:1;fill:url(#linearGradient2)"
        d="m 28,14 c -9.926544,0 -14,4 -14,14 v 0 H 27.999994 V 14 Z"
        id="path7125"
        sodipodi:nodetypes="cccccc"
@@ -834,7 +810,7 @@
   <g
      id="decoration-topright">
     <path
-       style="fill:url(#linearGradient8);fill-opacity:1;stroke-width:0.636366;opacity:0.75"
+       style="fill:url(#linearGradient8);fill-opacity:1;stroke-width:0.636366"
        d="M 54,28 C 54,18 50,14 40,14 v 0 14 z"
        id="path7125-5"
        sodipodi:nodetypes="ccccc"
@@ -859,7 +835,7 @@
   <g
      id="decoration-bottomright">
     <path
-       style="fill:#182030;fill-opacity:0.74901962;stroke-width:0.636358"
+       style="fill:#182030;fill-opacity:1;stroke-width:0.636358"
        d="m 40,54 c 10,0 14,-4 14,-14 v 0 H 40 Z"
        id="path7125-67"
        sodipodi:nodetypes="cccccc"
@@ -884,7 +860,7 @@
   <g
      id="decoration-bottomleft">
     <path
-       style="stroke-width:0.63637;fill-opacity:0.74901962;fill:#182030"
+       style="stroke-width:0.63637;fill-opacity:1;fill:#182030"
        d="m 14,40 c 0,10 4,14 14,14 v 0 -14 z"
        id="path7125-5-2"
        sodipodi:nodetypes="cccccc"
@@ -911,7 +887,7 @@
     <path
        id="path7363"
        d="m 14.002841,28 v 12 h 14 V 28 Z"
-       style="stroke-width:0.690984;fill-opacity:0.74901962;fill:#182030"
+       style="stroke-width:0.690984;fill-opacity:1;fill:#182030"
        class="ColorScheme-Background" />
     <path
        style="fill:#0a0b10;fill-opacity:1;stroke:none;stroke-width:2.24808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.0878;stroke-opacity:1"
@@ -935,7 +911,7 @@
   <g
      id="decoration-right">
     <path
-       style="stroke-width:0.690846;fill-opacity:0.74901962;fill:#182030"
+       style="stroke-width:0.690846;fill-opacity:1;fill:#182030"
        d="M 54,28 V 40 H 40 V 28 Z"
        id="path7235"
        sodipodi:nodetypes="ccccc"
@@ -961,7 +937,7 @@
   <g
      id="decoration-top">
     <path
-       style="stroke-width:0.690852;fill-opacity:1;fill:url(#linearGradient6);opacity:0.75"
+       style="stroke-width:0.690852;fill-opacity:1;fill:url(#linearGradient6)"
        d="m 27.999783,13.999999 v 14 h 12.000458 v -14 z"
        id="path7877"
        sodipodi:nodetypes="ccccc"
@@ -988,7 +964,7 @@
   <g
      id="decoration-bottom">
     <path
-       style="stroke-width:0.690846;fill-opacity:0.74901962;fill:#182030"
+       style="stroke-width:0.690846;fill-opacity:1;fill:#182030"
        d="M 28,40 V 54 H 39.999999 40 V 40 Z"
        id="path7546"
        sodipodi:nodetypes="cccccc"
