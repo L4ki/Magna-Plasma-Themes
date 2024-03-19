@@ -64,23 +64,28 @@ Icons Themes
 Added new icons: apps 48
 
 
-Changelog: 12.03.2024.
+Changelog: 19.03.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: styles
 
 Aurorae Themes
 ---------------
 
-Update: metadata.desktop
+Update: rc file
 
 Plasma Theme
 ------------
 
-Update widget: background.svg (dialogs)
+Update widget: listitem.svg
+
+Icons "Magna-Light-Icons"
+------------------------
+
+Added new icons: apps 48
 
 
 
