@@ -6,7 +6,7 @@
    width="218"
    id="svg2"
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,15 +24,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1820"
-     inkscape:window-height="943"
+     inkscape:window-width="1920"
+     inkscape:window-height="944"
      id="namedview717"
      showgrid="true"
      inkscape:zoom="1.3118507"
-     inkscape:cx="124.25194"
-     inkscape:cy="262.98724"
-     inkscape:window-x="50"
-     inkscape:window-y="50"
+     inkscape:cx="98.334361"
+     inkscape:cy="229.0657"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:snap-object-midpoints="true"
@@ -304,7 +304,50 @@
     </linearGradient>
     <style
        id="current-color-scheme"
-       type="text/css"> &#10;      .ColorScheme-Text {&#10;        &#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonFocus {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        &#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        &#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-Text {&#10;        &#10;      }&#10;      .ColorScheme-NeutralText {&#10;        color:#f67400;&#10;      }&#10;      .ColorScheme-PositiveText {&#10;        color:#27ae60;&#10;      }&#10;</style>
+       type="text/css"> 
+      .ColorScheme-Text {
+        
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonFocus {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-Text {
+        
+      }
+      .ColorScheme-NeutralText {
+        color:#f67400;
+      }
+      .ColorScheme-PositiveText {
+        color:#27ae60;
+      }
+</style>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient82"
@@ -4545,4 +4588,72 @@
        id="path993-9-97"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.250004;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
+  <rect
+     style="fill:#0066ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999977"
+     id="west-focus-hint-top-margin"
+     width="4"
+     height="4"
+     x="68.958794"
+     y="52.247963"
+     transform="rotate(90)" />
+  <rect
+     inkscape:label="#west-normal-hint-top-margin"
+     y="52.247967"
+     x="139.33383"
+     height="4.000001"
+     width="4"
+     id="west-normal-hint-top-margin"
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999985"
+     transform="rotate(90)" />
+  <rect
+     y="52.247967"
+     x="116.95896"
+     height="4"
+     width="4"
+     id="west-focus-hint-bottom-margin"
+     style="fill:#0066ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999972"
+     transform="rotate(90)" />
+  <rect
+     inkscape:label="#west-normal-hint-bottom-margin"
+     style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999968"
+     id="west-normal-hint-bottom-margin"
+     width="4"
+     height="4"
+     x="181.95894"
+     y="52.247967"
+     transform="rotate(90)" />
+  <rect
+     y="250.7155"
+     x="-64.860573"
+     height="4"
+     width="4"
+     id="east-focus-hint-top-margin"
+     style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999992"
+     transform="rotate(-90)" />
+  <rect
+     inkscape:label="#east-normal-hint-top-margin"
+     style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999997"
+     id="east-normal-hint-top-margin"
+     width="4"
+     height="4"
+     x="-134.86044"
+     y="250.7155"
+     transform="rotate(-90)" />
+  <rect
+     style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999997"
+     id="east-focus-hint-bottom-margin"
+     width="4"
+     height="4"
+     x="-107.86057"
+     y="250.7155"
+     transform="rotate(-90)" />
+  <rect
+     inkscape:label="#east-normal-hint-bottom-margin"
+     y="250.7155"
+     x="-177.86049"
+     height="4"
+     width="4"
+     id="east-normal-hint-bottom-margin"
+     style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999997"
+     transform="rotate(-90)" />
 </svg>
