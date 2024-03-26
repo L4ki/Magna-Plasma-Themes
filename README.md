@@ -50,39 +50,26 @@ Screenshots:
 ______________________________________________________________________________________________________
 
 
-Changelog: 15.03.2024.
----------------------
 
-Aurorae Themes 
---------------
-
-Update: metadata.json
-
-Icons Themes
-------------
-
-Added new icons: apps 48
-
-
-Changelog: 19.03.2024.
+Changelog: 26.03.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: styles
+Update: gtk-4.0
 
 Aurorae Themes
 ---------------
 
-Update: rc file
+Update: metadata.desktop
 
 Plasma Theme
 ------------
 
-Update widget: listitem.svg
+Update widget: tasks.svg
 
-Icons "Magna-Light-Icons"
+Icons 
 ------------------------
 
 Added new icons: apps 48
