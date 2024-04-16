@@ -51,13 +51,13 @@ ________________________________________________________________________________
 
 
 
-Changelog: 09.04.2024.
+Changelog: 16.04.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: apps.rc
 
 Aurorae Themes
 ---------------
@@ -67,12 +67,12 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update widget: scrollbar.svg
 
 Icons 
 ------------------------
 
-Added new icons: apps 48
+Update icons: apps 48
 
 
 
