@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    id="svg8694"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="system-file-manager.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,7 +27,7 @@
        inkscape:collect="always"
        id="linearGradient881">
       <stop
-         style="stop-color:#178fcd;stop-opacity:1;"
+         style="stop-color:#c83771;stop-opacity:1"
          offset="0"
          id="stop877" />
       <stop
@@ -43,7 +43,7 @@
          offset="0"
          id="stop3398" />
       <stop
-         style="stop-color:#3cb1c3;stop-opacity:1"
+         style="stop-color:#c83771;stop-opacity:1"
          offset="1"
          id="stop3400" />
     </linearGradient>
@@ -115,7 +115,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="8.8388348"
      inkscape:cx="24.777022"
-     inkscape:cy="22.1183"
+     inkscape:cy="22.061731"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -127,7 +127,7 @@
      inkscape:showpageshadow="true"
      showborder="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -137,7 +137,11 @@
        type="xygrid"
        id="grid417"
        originy="0"
-       originx="-0.4" />
+       originx="-0.4"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata8699">
