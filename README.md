@@ -51,13 +51,13 @@ ________________________________________________________________________________
 
 
 
-Changelog: 23.04.2024.
+Changelog: 30.04.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: main.rc
+Update: hacks.rc
 
 Aurorae Themes
 ---------------
@@ -67,12 +67,12 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: busywidget.svg
+Update widget: button.svg
 
 Icons 
 ------------------------
 
-Update icons: apps 48
+Added new icons: apps 48
 
 
 
