@@ -5,7 +5,7 @@
    viewBox="0 0 115.00001 47.000002"
    version="1.1"
    id="svg8"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="viewitem.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,20 +28,20 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#201933"
+     pagecolor="#181326"
      bordercolor="#030303"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6855329"
      inkscape:cx="60.504443"
-     inkscape:cy="24.887729"
+     inkscape:cy="24.975671"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -71,7 +71,7 @@
      fit-margin-bottom="5"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#201933">
+     inkscape:deskcolor="#201a33">
     <inkscape:grid
        id="grid1"
        units="px"
