@@ -51,13 +51,13 @@ ________________________________________________________________________________
 
 
 
-Changelog: 12.06.2024.
+Changelog: 19.06.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: apps.rc
+Update: main.rc
 
 Aurorae Themes
 ---------------
@@ -67,7 +67,7 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: margins-highlight.svg
+Update widget: background.svg
 
 Icons 
 ------------------------
