@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="300"
    height="85"
    viewBox="0 0 300 85"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="background.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="background.svg">
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Background { stop-color:#1d2030;    color:#1d2030; }&#10;.ColorScheme-Text { color:#31363b;        stop-color:#31363b; }&#10;</style>
+     id="current-color-scheme">.ColorScheme-Background { stop-color:#1d2030;    color:#1d2030; }
+.ColorScheme-Text { color:#31363b;        stop-color:#31363b; }
+</style>
   <defs
      id="defs4">
     <linearGradient
@@ -45,7 +47,41 @@
     </linearGradient>
     <style
        type="text/css"
-       id="style22">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style>
+       id="style22">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4776"
@@ -354,7 +390,41 @@
        inkscape:collect="always" />
     <style
        id="current-color-scheme-2"
-       type="text/css">&#10;      .ColorScheme-Text {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-Background{&#10;        color:#EFF0F1;&#10;      }&#10;      .ColorScheme-Highlight{&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-ViewBackground{&#10;        color:#FCFCFC;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#1E92FF;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-ButtonBackground{&#10;        color:#EFF0F1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#1E92FF;&#10;      }&#10;</style>
+       type="text/css">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }
+</style>
     <mask
        id="mask4270-9"
        maskUnits="userSpaceOnUse">
@@ -949,14 +1019,14 @@
      inkscape:snap-global="true"
      inkscape:snap-smooth-nodes="true"
      id="base"
-     pagecolor="#201933"
+     pagecolor="#2b2244"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.1527963"
-     inkscape:cx="130.99483"
-     inkscape:cy="51.541547"
+     inkscape:zoom="2"
+     inkscape:cx="182.32597"
+     inkscape:cy="94.768784"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1002,6 +1072,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
