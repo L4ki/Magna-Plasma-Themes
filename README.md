@@ -57,7 +57,7 @@ Changelog: 02.08.2024.
 GTK-Theme
 ----------
 
-Update: gtkec
+Update: gtkrc
 
 Aurorae Themes
 ---------------
