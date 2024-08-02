@@ -57,7 +57,7 @@ Changelog: 26.07.2024.
 GTK-Theme
 ----------
 
-Update: gtk-3.0
+Update: gtkec
 
 Aurorae Themes
 ---------------
@@ -67,7 +67,7 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: listitem.svg
+Update widget: pager.svg
 
 Icons 
 ------------------------
