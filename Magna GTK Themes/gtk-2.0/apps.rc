@@ -137,7 +137,6 @@ style "combobox_entry_border" = "combobox_entry" {
   }
 }
 
-
 # Mousepad search entry
 widget_class "*MousepadSearchBar*.<GtkEntry>"style "entry_border"
 
