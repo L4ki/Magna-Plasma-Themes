@@ -51,13 +51,13 @@ ________________________________________________________________________________
 
 
 
-Changelog: 13.09.2024.
+Changelog: 20.09.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Aurorae Themes
 ---------------
@@ -67,7 +67,7 @@ Update: decoration.svg
 Plasma Theme
 ------------
 
-Update widget: listitem.svg
+Update widget: plasmoidheading.svg
 
 Icons 
 ------------------------
