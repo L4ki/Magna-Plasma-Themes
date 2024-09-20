@@ -62,7 +62,7 @@ Update: gtk-3.0
 Aurorae Themes
 ---------------
 
-Update: decoration.svg
+Update: metadata.desktop
 
 Plasma Theme
 ------------
