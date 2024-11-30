@@ -51,13 +51,13 @@ ________________________________________________________________________________
 
 
 
-Changelog: 23.11.2024.
+Changelog: 30.11.2024.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: main.rc
 
 Aurorae Themes
 ---------------
@@ -67,12 +67,12 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: frame.svg
+Update widget: tabbar.svg
 
 Icons 
 ------------------------
 
-Added new icons: apps 48
+Update icons: apps 48
 
 
 
