@@ -51,13 +51,13 @@ ________________________________________________________________________________
 
 
 
-Changelog: 11.01.2025.
+Changelog: 18.01.2025.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-3.0
+Update: gtkrc
 
 Aurorae Themes
 ---------------
@@ -72,6 +72,6 @@ Update widget: picker.svg
 Icons 
 ------------------------
 
-Added new icons: actions 22
+Added new icons: apps 48
 
 
