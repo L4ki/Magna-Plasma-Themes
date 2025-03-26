@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="7"
+   height="20"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="background_right.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="31.842105"
+     inkscape:cx="3.470248"
+     inkscape:cy="7.7099174"
+     inkscape:window-width="2560"
+     inkscape:window-height="1353"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.0089101,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       id="linearGradient831">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient843"
+       cx="6"
+       cy="305.444"
+       r="3"
+       fx="6"
+       fy="305.444"
+       gradientTransform="matrix(-2.3333334,8.2688579e-6,-1.2862565e-5,-2.6666453,21.003929,840.5138)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient831" />
+  </defs>
+  <g
+     transform="matrix(-1,0,0,1,7,1)"
+     id="g3">
+    <path
+       style="fill:#19212f;fill-opacity:0.75"
+       d="M 0,-1 V 13.99109 A 5.0089101,5.0089101 45 0 0 5.0089101,19 H 7 V -1 Z"
+       id="path2"
+       sodipodi:nodetypes="ccccc"
+       inkscape:path-effect="#path-effect1"
+       inkscape:original-d="M 0,-1 V 19 H 7 V -1 Z" />
+  </g>
+</svg>
