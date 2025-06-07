@@ -51,18 +51,18 @@ ________________________________________________________________________________
 
 
 
-Changelog: 31.05.2025.
+Changelog: 07.06.2025.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: apps.rc
+Update: hacks.rc
 
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update widget: menubaritem.svg
 
 Icons 
 ------------------------
