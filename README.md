@@ -50,13 +50,13 @@ Screenshots:
 ______________________________________________________________________________________________________
 
 
-Changelog: 25.10.2025.
+Changelog: 01.11.2025.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-3.0
+Update: gtkrc
 
 Plasma Theme
 ------------
@@ -66,5 +66,5 @@ Update; metadata.desktop
 Icons 
 ------------------------
 
-Added new icons: apps 48
+Added new icons: apps 22
 
