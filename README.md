@@ -50,13 +50,13 @@ Screenshots:
 ______________________________________________________________________________________________________
 
 
-Changelog: 11.11.2025.
+Changelog: 15.11.2025.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: apps.rc
+Update: hacks.rc
 
 Plasma Theme
 ------------
@@ -68,5 +68,5 @@ Icons
 
 Added new icons: applets 48
 
-Update icons: places 32, 48
+
 
