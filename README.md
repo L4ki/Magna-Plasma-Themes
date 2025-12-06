@@ -50,13 +50,13 @@ Screenshots:
 ______________________________________________________________________________________________________
 
 
-Changelog: 30.11.2025.
+Changelog: 07.12.2025.
 ----------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-4.0
+Update: styles
 
 Plasma Theme
 ------------
@@ -66,7 +66,7 @@ Update; metadata.desktop
 Icons 
 ------------------------
 
-Update icons: status 22, 24
+Update icons: status 22
 
 
 
